@@ -1,0 +1,15 @@
+Receive=Btn1;Send=touch1
+Receive=Btn2;Send=touch2
+Receive=Btn3;Send=touch3
+Receive=Btn4;Send=touch4
+Receive=Btn5;Send=touch5
+Receive=Btn6;Send=touch6
+Receive=Btn7;Send=touch7
+Receive=Btn8;Send=touch8
+Receive=Btn9;Send=touch9
+Receive=Btn10;Send=touch10
+Receive=Btn11;Send=touch11
+Receive=Btn12;Send=touch12
+Receive=Btn13;Send=touch13
+Receive=Btn14;Send=touch14
+Receive=Btn15;Send=touch15
