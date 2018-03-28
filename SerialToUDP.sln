@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2024
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerialToUDP", "SerialToUDP\SerialToUDP.csproj", "{BD61B456-C41B-46AB-A78E-55C161A10935}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD61B456-C41B-46AB-A78E-55C161A10935}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD61B456-C41B-46AB-A78E-55C161A10935}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD61B456-C41B-46AB-A78E-55C161A10935}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD61B456-C41B-46AB-A78E-55C161A10935}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC781CDA-2B6F-4114-80A2-3AFC2BDCD2D2}
+	EndGlobalSection
+EndGlobal
